@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hello there! I'm a student at Miskatonic University, specializing in High Energy Magical Research. Currently, I'm stationed at the Trans-Oceanic Biological Research Institute
+Hello there! I'm a student at Miskatonic University, specializing in High Energy Magical Research. Currently, I'm stationed at the Trans-Oceanic Biological Research Institute.
 
 I'm currently exploring the intersection between marine biology and magical energy fields, with a focus on sustainable applications.
 
