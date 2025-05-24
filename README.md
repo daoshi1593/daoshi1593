@@ -6,6 +6,8 @@ I'm currently exploring the intersection between marine biology and magical ener
 Feel free to reach out for collaboration opportunities or discussions about magical research!
 
 "The most merciful thing in the world is the inability of the human mind to correlate all its contents."
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=daoshi1593&&show_icons=true&&theme=tokyonight" />
 <!--
 **daoshi1593/daoshi1593** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
