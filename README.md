@@ -1,11 +1,4 @@
 ## Hi there 👋
-Hello there! I'm a student at Miskatonic University, specializing in High Energy Magical Research. Currently, I'm stationed at the Trans-Oceanic Biological Research Institute.
-
-I'm currently exploring the intersection between marine biology and magical energy fields, with a focus on sustainable applications.
-
-Feel free to reach out for collaboration opportunities or discussions about magical research!
-
-"The most merciful thing in the world is the inability of the human mind to correlate all its contents."
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=daoshi1593&&show_icons=true&&theme=tokyonight" />
 <!--
