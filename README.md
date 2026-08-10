@@ -15,5 +15,5 @@ Golden Dawn, Digital Realm
 
 <p align="center">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daoshi1593&utcOffset=8&theme=react" alt="Productive time" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=daoshi1593&theme=react&hide_border=true" alt="GitHub streak" />
+  <img height="180" src="https://streak-stats.demolab.com?user=daoshi1593&theme=react&hide_border=true" alt="GitHub streak" />
 </p>
