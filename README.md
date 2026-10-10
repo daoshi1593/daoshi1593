@@ -2,6 +2,13 @@
 
 Golden Dawn, Digital Realm
 
+## About Me
+
+I'm Xupeng Zhang, an undergraduate student in Computer Science and Technology at Harbin Institute of Technology, expected to graduate in 2027.
+
+- **Undergraduate university:** Harbin Institute of Technology (哈尔滨工业大学)
+- **University email:** [2023112992@stu.hit.edu.cn](mailto:2023112992@stu.hit.edu.cn)
+
 ## 🤝 GitHub Profile
 
 <p align="center">
